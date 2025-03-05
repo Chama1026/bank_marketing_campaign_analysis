@@ -8,6 +8,6 @@ The primary goals of the project are to discover actionable insights on the key 
 
 ## Python Library 
 - **pandas**: For loading the dataset, data cleaning, data transformation, and data analysis.
-- **matplotlib** and **seaborn**: For data visualization.
+- **matplotlib & seaborn**: For data visualization.
 - **sklearn**: For building a logistic regression model.
 - **imblearn**: For building a Random Forest Classifier model.
